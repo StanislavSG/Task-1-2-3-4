@@ -1,0 +1,15 @@
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_4/bin/Debug/net7.0/task_4
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_4/bin/Debug/net7.0/task_4.deps.json
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_4/bin/Debug/net7.0/task_4.runtimeconfig.json
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_4/bin/Debug/net7.0/task_4.dll
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_4/bin/Debug/net7.0/task_4.pdb
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_4/obj/Debug/net7.0/task_4.csproj.AssemblyReference.cache
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_4/obj/Debug/net7.0/task_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_4/obj/Debug/net7.0/task_4.AssemblyInfoInputs.cache
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_4/obj/Debug/net7.0/task_4.AssemblyInfo.cs
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_4/obj/Debug/net7.0/task_4.csproj.CoreCompileInputs.cache
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_4/obj/Debug/net7.0/task_4.dll
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_4/obj/Debug/net7.0/refint/task_4.dll
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_4/obj/Debug/net7.0/task_4.pdb
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_4/obj/Debug/net7.0/task_4.genruntimeconfig.cache
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_4/obj/Debug/net7.0/ref/task_4.dll
