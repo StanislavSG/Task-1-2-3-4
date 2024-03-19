@@ -1,0 +1,15 @@
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_1/task_2/task_3/bin/Debug/net7.0/task_3
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_1/task_2/task_3/bin/Debug/net7.0/task_3.deps.json
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_1/task_2/task_3/bin/Debug/net7.0/task_3.runtimeconfig.json
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_1/task_2/task_3/bin/Debug/net7.0/task_3.dll
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_1/task_2/task_3/bin/Debug/net7.0/task_3.pdb
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_1/task_2/task_3/obj/Debug/net7.0/task_3.csproj.AssemblyReference.cache
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_1/task_2/task_3/obj/Debug/net7.0/task_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_1/task_2/task_3/obj/Debug/net7.0/task_3.AssemblyInfoInputs.cache
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_1/task_2/task_3/obj/Debug/net7.0/task_3.AssemblyInfo.cs
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_1/task_2/task_3/obj/Debug/net7.0/task_3.csproj.CoreCompileInputs.cache
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_1/task_2/task_3/obj/Debug/net7.0/task_3.dll
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_1/task_2/task_3/obj/Debug/net7.0/refint/task_3.dll
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_1/task_2/task_3/obj/Debug/net7.0/task_3.pdb
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_1/task_2/task_3/obj/Debug/net7.0/task_3.genruntimeconfig.cache
+/home/stanislav/Семнары С#/Task 1,2,3,4/task_1/task_2/task_3/obj/Debug/net7.0/ref/task_3.dll
